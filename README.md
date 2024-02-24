@@ -4,9 +4,9 @@
 
 <ul dir="auto">
 
-  <li>Having over 3 years of practical experience in <strong> web and mobile</strong> based software product development</li>
+  <li>Having over 3 years of practical experience in <strong> Web and Mobile</strong> based software product development</li>
   <li>Have created products for domains such as <strong>Wallet-Money Transfer Systems</strong> and <strong>Life Insurance E-commerce</strong> businesses.</li>
-  <li>Have designed and developed <strong>mobile</strong> and <strong>web </strong>applications</strong> aimed at <strong>multi-platform</strong> and <strong>cross-platform</strong> ecosystems, employing <strong>monolithic architectures</strong></li>
+  <li>Have designed and developed <strong>Web </strong> and <strong>Mobile</strong> applications</strong> aimed at <strong>Multi-Platform</strong> and <strong>Cross-Platform</strong> ecosystems, employing <strong>Monolithic Architectures</strong></li>
 </ul>
 
 <h4 dir="auto"><a id="user-content-what-im-doing" class="anchor" aria-hidden="true"
@@ -25,5 +25,5 @@
                             <li>📚 Currently learning about <strong>Deep Dive Laravel</strong>, <strong>Clean Code</strong>, <strong>Problem
                                     Solving</strong>, <strong>Design Pattern</strong>, <strong>Vue JS</strong>, and <strong>Rest
                                     Services</strong>.</li>
-                            <li>👯 Looking to collaborate on <strong>laravel projects</strong>.</li>
+                            <li>👯 Looking to collaborate on <strong>Laravel Projects</strong>.</li>
                         </ul>
