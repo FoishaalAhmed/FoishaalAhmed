@@ -114,3 +114,47 @@
                                 </ul>
                             </li>
                         </ul>
+
+  <h4 dir="auto"><a id="user-content-what-projects-ive-worked-on" class="anchor"
+                                aria-hidden="true" tabindex="-1" href="#what-projects-ive-worked-on"><svg
+                                    class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
+                                    height="16" aria-hidden="true">
+                                    <path
+                                        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
+                                    </path>
+                                </svg></a>Projects I've worked on</h4>
+                        <ul dir="auto">
+                            <li>🏢 <a href="https://codecanyon.net/item/paymoney-secure-online-payment-gateway/22341650"
+                                    rel="nofollow">PayMoney - Secure Online Payment Gateway</a> and it's enormous number of modules
+                                <ul dir="auto">
+                                    <li> <a href="https://codecanyon.net/item/cryptinvest-wallet-growth-investment-addon/40526686?s_rank=12" rel="nofollow"> CryptInvest - Wallet Growth Investment Addon </a> </li>
+                                    <li> <a href="https://codecanyon.net/item/cryptexchange-paymoney-crypto-swap-and-buysell-addon/43177642?s_rank=11" rel="nofollow"> CryptExchange - Paymoney Crypto Swap and Buy/Sell Addon </a> </li>
+                                    <li> <a href="https://codecanyon.net/item/paymoney-woocommerce-addon/33828499?s_rank=13" rel="nofollow"> PayMoney - WooCommerce Addon </a> </li>
+                                    <li> Payment via Payment Link</li>
+                                    <li> Multilevel Referral System</li>
+                                    <li> Paymoney Payment SDK and Rest API</li>
+                                    <li> QrPayments</li>
+                                    <li> Standard &amp; Express Merchant Payment</li>
+                                    <li> Event Ticket Module</li>
+                                    <li> Dozens of Payment Gateways</li>
+                                </ul>
+                            </li>
+                            <li><a href="https://cornerstone.com.ng"
+                                    rel="nofollow">Cornerstone Insurance Plc</a>
+                                <ul dir="auto">
+                                    <li>Verious policy product integration</li>
+                                    <li>Rest API for mobile and partner mobile app</li>
+                                    <li>Policy sell integration with Third-Party website </li>
+                                    <li>Payment Gateways integration</li>
+                                </ul>
+                            </li>
+                            <li><a href="https://amarlodge.com"
+                                    rel="nofollow">Amarlodge-Your tour and travel partner</a>
+                                <ul dir="auto">
+                                    <li>Building hotel management software</li>
+                                    <li>Rest API for mobile app</li>
+                                    <li>Payment Gateway integration</li>
+                                    <li>Worked on Global filtering </li>
+                                </ul>
+                            </li>
+                        </ul>
