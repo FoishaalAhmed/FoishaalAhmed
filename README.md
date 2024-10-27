@@ -4,7 +4,7 @@
 
 <ul dir="auto">
 
-  <li>Having over 3 years of practical experience in <strong> Web and Mobile</strong> based software product development</li>
+  <li>Having over 4 years of practical experience in <strong> Web and Mobile</strong> based software product development</li>
   <li>Have created products for domains such as <strong>Wallet-Money Transfer Systems</strong> and <strong>Life Insurance E-commerce</strong> businesses.</li>
   <li>Have designed and developed <strong>Web </strong> and <strong>Mobile</strong> applications</strong> aimed at <strong>Multi-Platform</strong> and <strong>Cross-Platform</strong> ecosystems, employing <strong>Monolithic Architectures</strong></li>
 </ul>
